@@ -16,11 +16,17 @@
 @media screen and (min-width: 768px) and (max-width: 1023px) {
     .places {
       max-width: 720px;
+      padding-top: 88px;
+      padding-bottom: 90px;
+      gap: 73px;
     }
 }
   
 @media screen and (max-width: 767px) {
     .places {
       max-width: 100%;
+      padding-top: 64px;
+      padding-bottom: 66px;
+      gap: 50px;
     }
 }
